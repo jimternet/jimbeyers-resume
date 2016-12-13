@@ -31,34 +31,57 @@
     {
       "company": "Target",
       "position": "Director of Engineering",
-      "website": "http://target.com",
-      "startDate": "2016-02-01",
+      "website": "",
+      "startDate": "2016-02",
       "endDate": "",
       "summary": "Engineering Director for 'Guest Fulfillment Engineering'",
       "highlights": [
-        "Availability to enable Add to Cart",
-        "Order By Get By",
+        "Provided availability information for Target Marketplaces",
+        "Transactional availability to show real-time and scaled nearly-real-time availability for all digital channels ",
         "de-facto product team - considered the example of how product works with engineering in multiple geographies"
       ]
+    },
+    {
+      "company": "Target",
+      "position": "Engineering Manager",
+      "website": "",
+      "startDate": "2014-12",
+      "endDate": "2016-02",
+      "summary": "Engineering Manager for the Availability platform for Target.com",
+      "highlights": [
+        "Consolidated to a single source of availability for Target.com",
+        "Provided \"Order By Get By\" to drive conversion on Target.com",
+        "Consolidated Flexible fulfillment processes to offer as a platform for Target digital channels",
+        ""
+      ]
+    },
+    {
+      "company": "Peficient",
+      "position": "Technical Architect Consultant",
+      "website": "",
+      "startDate": "2013-06",
+      "endDate": "2014-12",
+      "summary": "Provided technology direction, ensured project implementation compliance, and utilized technology research to innovate, integrate, and manage technology solutions. Contributed to identifying best-fit architectural solutions for multiple projects. Participate in pre-sales and delivery. As a leader of the business unit, mentored other consultants to provide coaching for their careers and delivery.",
+      "highlights": []
     }
   ],
   "volunteer": [],
   "education": [
     {
       "institution": "University of Saint Thomas",
-      "area": "Information Technology",
-      "studyType": "MBA",
+      "area": "Software Engineering",
+      "studyType": "Master of Science",
       "startDate": "",
-      "endDate": "2013",
+      "endDate": "2016",
       "gpa": "",
       "courses": []
     },
     {
       "institution": "University of Saint Thomas",
-      "area": "Software Engineering",
-      "studyType": "Master of Science",
+      "area": "Information Technology",
+      "studyType": "MBA",
       "startDate": "",
-      "endDate": "2016",
+      "endDate": "2013",
       "gpa": "",
       "courses": []
     }
@@ -73,8 +96,15 @@
   ],
   "publications": [
     {
+      "name": " Target’s First Foray into an In-Memory Data Grid",
+      "publisher": "In Memory Computing Summit",
+      "releaseDate": "2016",
+      "website": "https://imcsummit.org/2016/videos-and-slides/targets-first-foray-into-an-in-memory-data-grid-and-the-trips-stumbles-and-falls-that-came-with/",
+      "summary": "2015 saw the birth of a new product team at Target, Available to Promise (ATP) ATP is a new way to talk to guests about product availability and delivery times on target.com and is used as the the reservation engine for orders. In order to provide the guest experience that we are seeking to deliver on Target.com – the team chose to make use of an in memory data grid to serve up these features. This talk will cover what the team did right, what they did wrong, and what they were able to achieve (metrics)."
+    },
+    {
       "name": "Spring Boot ",
-      "publisher": "Self",
+      "publisher": "Target \"Geek Talks\"",
       "releaseDate": "2014",
       "website": "http://jimternet.github.io/boot_talk",
       "summary": "Internal \"Geek Talk\" at Target about spring boot, cassandra, and hazelcast"
@@ -84,24 +114,32 @@
       "publisher": "Camel-One",
       "releaseDate": "2013",
       "website": "http://camelone.org/camelone-2013/#beyers\"",
-      "summary": "Talk I gave : Camel in Criminal Justice"
-    },
-    {
-      "name": " Target’s First Foray into an In-Memory Data Grid",
-      "publisher": "In Memory Computing Summit",
-      "releaseDate": "2016",
-      "website": "https://imcsummit.org/2016/videos-and-slides/targets-first-foray-into-an-in-memory-data-grid-and-the-trips-stumbles-and-falls-that-came-with/",
-      "summary": "2015 saw the birth of a new product team at Target, Available to Promise (ATP) ATP is a new way to talk to guests about product availability and delivery times on target.com and is used as the the reservation engine for orders. In order to provide the guest experience that we are seeking to deliver on Target.com – the team chose to make use of an in memory data grid to serve up these features. This talk will cover what the team did right, what they did wrong, and what they were able to achieve (metrics)."
+      "summary": "Using Camel - buit"
     }
   ],
   "skills": [],
   "languages": [],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Live Music",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Heavy Metal",
+        "Post Rock"
+      ]
+    },
+    {
+      "name": "Video Games",
+      "keywords": []
+    },
+    {
+      "name": "Basketball",
+      "keywords": []
+    },
+    {
+      "name": "Post Apocalyptic Fiction",
+      "keywords": [
+        "Graphic Novles",
+        "b-movies"
       ]
     }
   ],
