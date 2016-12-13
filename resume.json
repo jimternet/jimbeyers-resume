@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Jim Beyers",
+    "label": "Engineering Leader",
+    "picture": "",
+    "email": "jamesbeyers@gmail.com",
+    "phone": "(612) 326-4182",
+    "website": "http://noofinc.com",
+    "summary": "I spent many years in the hospitality industry which helped to shape my attitude to customer service.  This experience positions me to bridge the technical and business divide. I enjoy finding simple solutions to complex problems and enabling the business to make informed decisions to improve their processes.",
+    "location": {
+      "address": "715 Sheraton Drive",
+      "postalCode": "94087",
+      "city": "Sunnyvale",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "jimternet",
+        "url": "https://twitter.com/jimternet"
+      },
+      {
+        "network": "GitHub",
+        "username": "jimternet",
+        "url": "https://github.com/jimternet"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Target",
+      "position": "Director of Engineering",
+      "website": "http://target.com",
+      "startDate": "2016-02-01",
+      "endDate": "",
+      "summary": "Engineering Director for 'Guest Fulfillment Engineering'",
+      "highlights": [
+        "Availability to enable Add to Cart",
+        "Order By Get By",
+        "de-facto product team - considered the example of how product works with engineering in multiple geographies"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Saint Thomas",
+      "area": "Information Technology",
+      "studyType": "MBA",
+      "startDate": "",
+      "endDate": "2013",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Saint Thomas",
+      "area": "Software Engineering",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "2016",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Honesty and Integrity Award",
+      "date": "2013-12-01",
+      "awarder": "Perficient",
+      "summary": "Award description : Honesty and Integrity – Be forthright and ethical in all interactions with clients and colleagues, demonstrated consistently through our behavior in every situation, every day. "
+    }
+  ],
+  "publications": [
+    {
+      "name": "Spring Boot ",
+      "publisher": "Self",
+      "releaseDate": "2014",
+      "website": "http://jimternet.github.io/boot_talk",
+      "summary": "Internal \"Geek Talk\" at Target about spring boot, cassandra, and hazelcast"
+    },
+    {
+      "name": "Camel in Criminal Justice",
+      "publisher": "Camel-One",
+      "releaseDate": "2013",
+      "website": "http://camelone.org/camelone-2013/#beyers\"",
+      "summary": "Talk I gave : Camel in Criminal Justice"
+    },
+    {
+      "name": " Target’s First Foray into an In-Memory Data Grid",
+      "publisher": "In Memory Computing Summit",
+      "releaseDate": "2016",
+      "website": "https://imcsummit.org/2016/videos-and-slides/targets-first-foray-into-an-in-memory-data-grid-and-the-trips-stumbles-and-falls-that-came-with/",
+      "summary": "2015 saw the birth of a new product team at Target, Available to Promise (ATP) ATP is a new way to talk to guests about product availability and delivery times on target.com and is used as the the reservation engine for orders. In order to provide the guest experience that we are seeking to deliver on Target.com – the team chose to make use of an in memory data grid to serve up these features. This talk will cover what the team did right, what they did wrong, and what they were able to achieve (metrics)."
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": []
+}
