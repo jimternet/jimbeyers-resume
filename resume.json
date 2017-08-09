@@ -8,9 +8,9 @@
     "website": "http://noofinc.com",
     "summary": "I spent many years in the hospitality industry which helped to shape my attitude to customer service.  This experience positions me to bridge the technical and business divide. I enjoy finding simple solutions to complex problems and enabling the business to make informed decisions to improve their processes.",
     "location": {
-      "address": "715 Sheraton Drive",
-      "postalCode": "94087",
-      "city": "Sunnyvale",
+      "address": "1444 Glendale Ave",
+      "postalCode": "94708",
+      "city": "Berkeley",
       "countryCode": "US",
       "region": "California"
     },
@@ -29,13 +29,29 @@
   },
   "work": [
     {
+      "company": "Capital One",
+      "position": "Director of Engineering",
+      "website": "capitalonelabs.com",
+      "startDate": "2017-02",
+      "endDate": "",
+      "summary": "'Engineering lead for Retail Bank API tranformation and shared platform team for Capital One Halo'",
+      "highlights": [
+
+        "Manage application/software development to deliver technology prototypes in support of business assessment.",
+        "Manage a broad portfolio of diverse technology projects to provide web, mobile, and integration solutions.",
+        "Recruit, motivate, mentor, and lead the best application engineering talent.",
+        "Manage technology support teams to develop business applications, or ensure business applications have high availability and adequate performance, to include demonstrating year-over-year performance improvement."
+      ]
+    },
+    {
       "company": "Target",
       "position": "Director of Engineering",
-      "website": "",
+      "website": "Target.com",
       "startDate": "2016-02",
-      "endDate": "",
+      "startDate": "2017-02",
       "summary": "Engineering Director for 'Guest Fulfillment Engineering'",
       "highlights": [
+        "Engineering Director for 'Guest Fulfillment Engineering' ,'Availability', 'Flexible Fulfillment',  'Available to Promise', 'Find it in a Target Store', 'Add to Cart', 'Order By Get By', 'Buy online pickup in Store', 'Ship to Store' and other related products.",
         "Provided availability information for Target Marketplaces",
         "Transactional availability to show real-time and scaled nearly-real-time availability for all digital channels ",
         "de-facto product team - considered the example of how product works with engineering in multiple geographies"
@@ -114,7 +130,7 @@
       "publisher": "Camel-One",
       "releaseDate": "2013",
       "website": "http://camelone.org/camelone-2013/#beyers\"",
-      "summary": "Using Camel - buit"
+      "summary": "Talked about how we implemented camel to displace IBM MQ and Broker"
     }
   ],
   "skills": [],
