@@ -4,56 +4,49 @@
         "label": "Software Engineering Leader",
         "email": "jamesbeyers@gmail.com",
         "phone": "(612) 326-4182",
+        "website":  "https:\/\/www.linkedin.com\/in\/jamesbeyers",
         "image": "https://s.gravatar.com/avatar/1e7b84b36b5e313ef2dd14646c76bcfb",
-        "summary": "I spent many years in the hospitality industry which helped to shape my attitude to customer service. I am passionate about creating a culture of growth, leading by supporting rather than managing, and fostering a strong commitment to delivery.",
+        "summary": "I spent many years in the hospitality industry which helped to shape my attitude to customer service. I am passoionate about creating a culture of growth, leading by supporting rather than managing, and fostering a strong commitment to delivery.",
         "location": {
             "postalCode": "55419",
             "city": "Minneapolis",
             "countryCode": "US",
-            "region": "Minnesota"
+            "region": "Minnesota"        
         },
-        "profiles": [
-            {
-                "network": "https:\/\/www.linkedin.com\/in\/jamesbeyers",
-                "username": "jamesbeyers",
-                "url": "https:\/\/www.linkedin.com\/in\/jamesbeyers"
-            },
-            {
-                "network": "https:\/\/github.com\/jimternet",
-                "username": "jimternet",
-                "url": "https:\/\/github.com\/jimternet"
-            },
-            {
-                "network":  "https:\/\/github.com\/NoofInc",
-                "username": "NoofInc",
-                "url": "https:\/\/github.com\/NoofInc"
-            }
-        ]
-    },
+        // "profiles": [
+        //     {
+        //         "network": "linkedin",
+        //         "username": "jamesbeyers",
+        //         "url": "https:\/\/www.linkedin.com\/in\/jamesbeyers"
+        //     },
+        //     {
+        //         "network": "twitter",
+        //         "username": "jimternet",
+        //         "url": "https:\/\/twitter.com\/jimternet"
+        //     },
+        //     {
+        //         "network": "GitHub",
+        //         "username": "jimternet",
+        //         "url": "https:\/\/github.com\/jimternet"
+        //     },
+        //     {
+        //         "network": "GitHub",
+        //         "username": "NoofInc",
+        //         "url": "https:\/\/github.com\/NoofInc"
+        //     }
+        // ]
+    // },
     "work": [
-        {
-            "company": "Target",
-            "summary": "Identified as a change agent, I was asked to move to the Network team; an area that I had limited expereince with.  Tasked with developing and delivering our next generation WAN strategy that is founded in stability and reliability delievred through diveristy, we will provide a redundant mesh that provides new capabilities for Target's resources to work together.",
-            "highlights": [
-                "Cut 5 MM in spending from global WAN in the first 9 months.",
-                "Supported selection and delievery of Target's next generation of WiFi across all Target properties.",
-                "Support a team of leaders of leaders of global and remote team members."
-            ],
-            "position": "Senior Director of Engineering - Network Engineering",
-            "startDate": "2021-01-01"
-        },
         {
             "company": "Target",
             "summary": "I support the some pretty exciting engineering teams at Target including the Internet of Things Platform team that provides a common platform for connected devices at Target's stores and Distribution centers,  Target Application Platform (TAP) - Target\u2019s Platform as a Service that enables developers to build, run and operate applications entirely in cloud, Target's API Platform - api.target.com - providing reusable patterns to make business logic accessible to build upon, Release and Runtime engineering team - Target's public cloud team, Praxis - our internal React framework and the Target Application Platform backed by our API Platform and Data as a Service to stand up applications rapidly, Managed File Transfer - everything from EDI to SFTP; how Target shares files with partners, and Streaming data team - Target's events platform for publishing and subscribing to events  ",
             "highlights": [
                 "Manage a resource budget of roughly 15 million dollars and L&M budget of about 50 million.",
-                "Support a team of leaders of leaders of global and remote team members that number roughly 150 people",
+                "Support a team of leaders of leaders of global and remote team members that numbner roughly 150 people",
                 "Partner with other leaders, individual contributors, and business portfolio team members to set long term strategy and the tactics to support those strategies."
             ],
-            "position": "Senior Director of Engineering - Platform Services",
-            "startDate": "2017-10-01",
-            "endDate": "2021-01-01"
-
+            "position": "Senior Director of Engineering",
+            "startDate": "2017-10-01"
         },
         {
             "company": "NoofInc",
@@ -77,7 +70,7 @@
             "highlights": [
                 "Deliver a self-service streaming data platform for all of Capital One.  Working with other teams to provide governance and discoverability to enable teams to unlock the value of data",
                 "Supported teams building consumer facing products being built with design research and direct consumer feedback",
-                "Large scale bank architecture review and consultancy",
+                "Larget scale bank architecture review and consultancy",
                 "Produce bank technical architecture deliverables such as technical requirements,documentation, and conceptual technical architecture"
 
             ]
@@ -92,7 +85,7 @@
                 "\"Available to Promise\" Availability and Estimated Delivery Dates",
                 " \"Find it in a Target Store\"",
                 "\"Order By Get By\"",
-                " \"Buy online pickup in Store\"",
+                " \"Buy online pickup in Store\"", 
                 "\"Ship to Store\""
             ]
         },
@@ -132,7 +125,7 @@
             "highlights": [
                 "managed up to a team of 25 employees and contractors",
                 "Negotiated contracts and vendor relations",
-                "Migrated off of vendor products and licensed software to OSS",
+                "Migragted off of vendor products and licenensed softeare to OSS",
                 "Implemented ESB (Apache\/Fuse) and built multiple integrations and services",
                 "Matured SDLC processes  and bootstrapped lean\/agile SDLC using continuous integration and delivery to reduce time to delivery. (Jenkins \/ Mocks \/ lightweight containers \/ Github) "
             ]
@@ -196,16 +189,6 @@
         }
     ],
     "publications": [
-        {
-            "name": "Why Target Thinks Enterprise IoT Has Finally Arrived",
-            "website": "https://www.protocol.com/newsletters/protocol-enterprise/target-iot-camera-sensors",
-            "summary": "Target built it's own built-for-purpose IoT platform."
-        },
-        {
-            "name": "Target CIO Mike McNamara makes a cloud declaration of independence",
-            "website": "https://www.protocol.com/enterprise/target-cio-mike-mcnamara-multicloud",
-            "summary": "Staying on Amazon Web Services wasn't an option, so the retailer built a multicloud architecture that gives it flexibility across vendors."
-        },
         {
             "name": "Target Application Platform @ Google Next",
             "website": "https://www.youtube.com/watch?v=cnHfK4MZA2Y&t=9s",

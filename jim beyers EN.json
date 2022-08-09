@@ -1,0 +1,189 @@
+{
+    "basics": {
+        "name": "jim beyers",
+        "label": "Senior Director of Platform Services Hiring Talented Engineers for Cloud and Compute in Bangalore and Minneapolis",
+        "summary": "I spent many years in the hospitality industry which helped to shape my attitude to customer service.  This experience positions me to bridge the technical and business divide. I enjoy finding simple solutions to complex problems and enabling the business to make informed decisions to improve their processes.\n\nBeing able to speak business with the business and technology with the developers.",
+        "location": {
+            "postalCode": "55419",
+            "countryCode": "US"
+        },
+        "website": "http:\/\/jamesbeyers.com",
+        "profiles": [
+            {
+                "network": "linkedin",
+                "username": "jamesbeyers",
+                "url": "https:\/\/www.linkedin.com\/in\/jamesbeyers"
+            },
+            {
+                "network": "twitter",
+                "username": "jimternet",
+                "url": "https:\/\/twitter.com\/jimternet"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Target",
+            "summary": "I support the some pretty exciting engineering teams at Target\n* the team that is building Target's Internet of Things Platform (IoTP) to provide a common platform for connected devices at Target's stores and Distribution centers. \n* Target Application Platform (TAP) - Target\u2019s Platform as a Service that enables developers to build, run and operate applications entirely in cloud \u2013 be it our data centers, Google Cloud or edge locations.\n* Target's API Platform - api.target.com - providing reusable patterns to make business logic accessible to build upon.\n* Release and Runtime engineering team - Target's public cloud team - managing access, deployments, and spend.\n* Streaming data - Target's events platform for publishing and subscribing to events.\n* Managed File Transfer - everything from EDI to SFTP; how Target shares files with partners. \n* Praxis, our internal React framework and the Target Application Platform backed by our API Platform and Data as a Service to stand up applications rapidly.",
+            "position": "Senior Director of Platform Services",
+            "startDate": "2017-10-01"
+        },
+        {
+            "company": "NoofInc",
+            "summary": "Independent consultant and contractor. Providing hands-on engineering and design consultation.",
+            "position": "Independent Consultant",
+            "startDate": "2013-09-01"
+        },
+        {
+            "company": "Capital One",
+            "summary": "Working hard to deliver a self-service streaming data platform for all of Capital One.  Working with other teams to provide governance and discoverability to enable teams to unlock the value of data",
+            "position": "Director Of Engineering",
+            "startDate": "2017-07-01",
+            "endDate": "2017-10-01"
+        },
+        {
+            "company": "Capital One",
+            "summary": "Managed software development teams in a various areas of Capital One retail bank that provided middleware platforms for web and mobile products. Recruited and mentored engineering talent to grow and bolster a cohesive team. Restructured teams into self-organizing units that organize around their own decision making and estimating resulting in increased engagement and quality.",
+            "position": "Director Of Engineering",
+            "startDate": "2017-02-01",
+            "endDate": "2017-07-01"
+        },
+        {
+            "company": "Target",
+            "summary": "Engineering Director for \"Guest Fulfillment Engineering\" : Availability, Flexible Fulfillment, and Guest facing allocation  -  Availability, Estimated Delivery Dates, \"Available to Promise\", \"Find it in a Target Store\", \"Add to Cart\", \"Order By Get By\", \"Buy online pickup in Store\", \"Ship to Store\" and other related products.",
+            "position": "Engineering Director",
+            "startDate": "2016-02-01",
+            "endDate": "2017-02-01"
+        },
+        {
+            "company": "Target",
+            "summary": "Engineering manager - Architect for the inventory vertical in Target's \"Available to Promise\" product team. \"Available to Promise\" (ATP) seeks to prevent oversell by capturing customer demand at the time of purchase and showing accurate real-time inventory across Target's 1800+ stores and other fulfillment centers.",
+            "position": "Engineering Manager",
+            "startDate": "2014-12-01",
+            "endDate": "2016-02-01"
+        },
+        {
+            "company": "Perficient",
+            "summary": "* Strong focus on data modeling and schema design for Apache Cassandra\/Datastax Enterprise Edition\n* Responsible for creation of enterprise service requirements. \n* Work with multiple project and application teams conducting analysis and scoping of enterprise class services \n* Business, data, use case, and technical analysis \n* Creation of service specifications, schemas, canonical models, nonfunctional requirements \n* Oversight of testing from a business and SLA perspective \n\nTechnologies \/ Tools \n* Cassandra \/ Datastax Enterprise Edition\n* RESTful APIs\n* Splunk\n* Vagrant\n* Chef\n* SOLR\n* Hortonworks HDP : Ambari \/ Cascading \/ Hive\n\n\u2022 Ensure the conceptual integrity of our solutions from a technology perspective. Our \nsolution architects have responsibility for the architecture from a business \/user \nperspective. \n\u2022 Cultivate highly functioning teams comprised of Perficient and client resources that \nrecognize the value and expertise of all of the different disciplines. \n\u2022 Ensure deliverables are of the highest quality to promote client satisfaction \n\u2022 Produce key technical architecture deliverables such as technical requirements \ndocumentation and conceptual technical architecture \n\u2022 Mentor and provide technology delivery expertise to less experienced team members \n\u2022 Lead strategy engagements from a technology perspective \n\u2022 Active participation in the evolution of Perficient\u2019s offerings for the given technology area \n\u2022 Participate in the overall leadership of the business unit",
+            "position": "Senior Technical Architect",
+            "startDate": "2013-06-01",
+            "endDate": "2014-12-01"
+        },
+        {
+            "company": "Hennepin County",
+            "summary": "* Technical Lead of the software development group, with hands-on software development as a senior developer and coaching junior developers to use standard technology stack  \n* Spec, design, build, deploy and maintain tools\/systems\n* Implemented ESB (Apache\/Fuse) and built multiple integrations and services\n* Worked re-engineering of legacy products - created RESTful APIs to abstract applications (future proofing)\n* bootstrapped lean\/agile SDLC using continuous integration and delivery to reduce time to delivery. (Jenkins \/ Mocks \/ lightweight containers \/ Github)",
+            "position": "Engineering Manager",
+            "startDate": "2009-03-01",
+            "endDate": "2013-06-01"
+        },
+        {
+            "company": "Hennepin County",
+            "summary": "Part of the Hennepin Justice Integration Project (HJIP). Developing  platforms through service orientated architecture (SOA)  to integrate different City, County, and State systems.",
+            "position": "Principal Engineer",
+            "startDate": "2007-12-01",
+            "endDate": "2009-03-01"
+        },
+        {
+            "company": "AppMIll",
+            "summary": "Consultant position. Work consisted of integrating a case management system into Microsoft exchange. Case management system calendaring was integrated into users Outlook schedule. Utilized WebDav protocol on the .NET platform.",
+            "position": "Software Engineer",
+            "startDate": "2007-08-01",
+            "endDate": "2007-12-01"
+        },
+        {
+            "company": "Express Scripts",
+            "summary": "Diversified Apps Infrastructure Maintenance (DAIM) team member \nHelped the DAIM Middleware support team perform scheduled maintenance on a wide variety of *nix platforms using different shell scripting approaches. I also Developed a way of reporting team metrics into a centralized location for management to share with various directors and VPs.",
+            "position": "Engineer (intern)",
+            "startDate": "2007-05-01",
+            "endDate": "2007-08-01"
+        },
+        {
+            "company": "Dinnaken Properties Inc.",
+            "summary": "Network management and user support for a mid-sized property management company.",
+            "position": "Network Administrator",
+            "startDate": "2004-07-01",
+            "endDate": "2007-08-01"
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Saint Thomas - School of Business",
+            "area": "Business Administration",
+            "studyType": "MBA",
+            "startDate": "2010-01-01",
+            "endDate": "2015-01-01"
+        },
+        {
+            "institution": "University of Saint Thomas - Graduate Programs in Software",
+            "area": "Software Engineering",
+            "studyType": "Software Engineering",
+            "startDate": "2008-01-01",
+            "endDate": "2011-01-01"
+        },
+        {
+            "institution": "University of Saint Thomas",
+            "area": "Computer Science",
+            "studyType": "BA Computer Science"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Honesty and Integrity Award",
+            "awarder": "Perficient Minneapolis Office",
+            "summary": "Award description : Honesty and Integrity \u2013 Be forthright and ethical in all interactions with clients and colleagues, demonstrated consistently through our behavior in every situation, every day.",
+            "date": "2013-12-01"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Apache Camel in Criminal Justice",
+            "publisher": "CamelOne 2013 Conference",
+            "website": "http:\/\/camelone.org\/camelone-2013\/#beyers",
+            "summary": "Talk I gave at the Camel Conference.",
+            "releaseDate": "2013-06-01"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Integration"
+        },
+        {
+            "name": "Enterprise Architecture"
+        },
+        {
+            "name": "Software Engineering"
+        },
+        {
+            "name": "Distributed Team Management"
+        }
+    ],
+    "references": [
+        {
+            "name": "Jim Kamin (Assistant Public Defender)",
+            "reference": "Jim Beyers manages a multi-faceted IT strategic plan for the Public Defender's Office.  His responsibilities include supervision of IT staff (BA's, developers, desktop support staff, data entry personnel), vendor management, development work, architectural design, business roll-out and prioritizations.  In each of these roles, Jim does an excellent job, particularly in identifying and seizing opportunities to implement IT solutions to business practice problems.  He does these duties with energy, commitment, intelligence and good humor.  This is an unconditional recommendation."
+        },
+        {
+            "name": "Jeffery Pitman (PMO Manager at Hennepin County)",
+            "reference": "I hired Jim as a Developer for Hennepin County. He has a very strong work ethic, and is extremely capable. His ability to learn new techniques and skills is exemplary."
+        },
+        {
+            "name": "Tina Johnson, AIRS CDR (Area Leader of Recruiting at Raising Canes)",
+            "reference": "Jim was a pleasure to work with! Always very knowledgable and hardworking. We were sad to see his internship end but hope to work with him again someday in the future!"
+        },
+        {
+            "name": "Bernie Brondum (Vice President of Engineering at Advanced Wireless Communications)",
+            "reference": "Jim is a rock-solid coder with a strong technical background."
+        },
+        {
+            "name": "Jim Mason (Department Manager at Express Scripts, Inc)",
+            "reference": "Jim was a summer intern working with a support team.  He excelled in building a web front end for our team's statistics.  From concept to delivery he did a fantastic job."
+        },
+        {
+            "name": "Jeff Langfeldt (Retired to focus on Health issues)",
+            "reference": "Jim worked as an intern at Express Scripts.  He did a great job working gathering the needs and developing a solution for us.  His self motivation allowed him to be very successful in working on a fairly unstructrued project.  He did a super job connecting with other technical resources to assure that his solution fit into our architecture and would be able to be supported going forward.\r\n\r\nHe is a great team member!"
+        }
+    ]
+}
